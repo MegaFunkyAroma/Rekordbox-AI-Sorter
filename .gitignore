@@ -1,0 +1,8 @@
+# Ignore my personal DJ data
+data.csv
+rekordbox.xml
+rekordbox_sorted.xml
+
+# Ignore any reports or shopping lists
+Missing_Tracks_Report.txt
+Shopping_List.txt
